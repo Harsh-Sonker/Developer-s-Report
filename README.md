@@ -1,7 +1,8 @@
 # Harsh-Sonker-Project-on-Ethical-Hacking
+This is Final Project done by me during Internshala Training Program on Ethical Hacking.
+
 I conducted a VAPT on an E-Commerce site, identifying critical vulnerabilities like SQL injections, CSRF attacks, and unauthorized file uploads. I provided detailed reports and implemented security measures to enhance resilience against cyber threats, showcasing expertise in cybersecurity and ethical hacking.
 
-This is Final Project done by me during Internshala Training Program on Ethical Hacking.
 # Objectives of my project
 
  -> Tested a demo E-commerce website
